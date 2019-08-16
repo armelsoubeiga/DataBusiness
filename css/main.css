@@ -162,7 +162,7 @@ body > section,
 
 .navbar-nav li a {
 	border-top: 1px solid transparent;
-	font-size: 16px;
+	font-size: 14px;
 }
 
 .navbar-nav li a.current,
@@ -172,8 +172,6 @@ body > section,
 	border-top: 1px solid #32B0EE;
 	color: orange;
 }
-
-
 
 
 /*=========================================
@@ -193,24 +191,24 @@ body > section,
 }
 
 .carousel-caption h2 {
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 300;
 }
 
 .carousel-caption h2 span {
-  font-weight: 800;
+  font-weight: 600;
 }
 
 .carousel-caption h3 {
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 250;
   margin: 6px 0 20px;
 }
 
 .carousel-caption p {
   color: #fff;
-  font-size: 18px;
-  font-weight: 300;
+  font-size: 14px;
+  font-weight: 150;
 }
 
 .carousel-caption p:before,
