@@ -89,7 +89,7 @@ body > section,
 .sec-sub-title p {
 	font-weight: 600;
 	line-height: 24px;
-	font-size: 18px;
+	font-size: 14px;
 	color: #5b646e;
 }
 
@@ -185,7 +185,7 @@ body > section,
 }
 
 #slider .carousel-inner .item {
-  background-size: 1600px 800px;
+  background-size: cover;
 }
 
 .carousel-caption {
