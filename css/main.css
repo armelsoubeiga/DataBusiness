@@ -183,7 +183,7 @@ body > section,
 }
 
 #slider .carousel-inner .item {
-  background-size: 1600px 800px;
+  background-size: cover;
 }
 
 .carousel-caption {
